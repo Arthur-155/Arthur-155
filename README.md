@@ -72,6 +72,7 @@
 />
  
 <br>
+<br>
 
 <p>
   <img 
@@ -90,6 +91,8 @@
   />
 
 </p>
+<br>
+
 
  
 ### Essas são as Minhas Redes Sociais, Para Contato!
