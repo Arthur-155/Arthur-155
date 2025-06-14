@@ -30,8 +30,8 @@ Me chamo Arthur Vieira Bergamo, tenho 23 anos e sou natural de Santa Fé - PR. C
 
 ### 📊 Estatísticas GitHub
 <p>
-  <img align="left" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Linguagens" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Arthur-155&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Linguagens" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-155&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 <br clear="both" />
