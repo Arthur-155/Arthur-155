@@ -40,9 +40,6 @@ Me chamo Arthur Vieira Bergamo, tenho 23 anos e sou natural de Santa Fé - PR. C
 
 ### 📫 Contato
 <div align="center">
-  <a href="https://instagram.com/vieira_bergamo2" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/arthur-vieira-bergamo-6775a2252/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
