@@ -1,8 +1,11 @@
-## 👋 Bem-vindo(a) ao perfil de Arthur Bergamo 😁
+## 👋 Arthur Vieira Bergamo 😁
+
+**`Desenvolvedor FullStack`**
+
 ---
 
 ### Sobre mim
-Minhas principais linguagens e frameworks de trabalho e estudo.
+Me chamo Arthur Vieira Bergamo, tenho 23 anos e sou natural de Santa Fé - PR. Concluí o ensino médio no Colégio Estadual Gastão Vidigal e atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar.
 
 ---
 
@@ -17,10 +20,10 @@ Minhas principais linguagens e frameworks de trabalho e estudo.
   <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="Bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img alt="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="C++" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Bash" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
 ---
@@ -28,7 +31,6 @@ Minhas principais linguagens e frameworks de trabalho e estudo.
 ### 📊 Estatísticas GitHub
 <p>
   <img align="left" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
   <img align="left" alt="Top Linguagens" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
@@ -49,5 +51,5 @@ Minhas principais linguagens e frameworks de trabalho e estudo.
 ---
 
 <div align="center">
-  Obrigado pela visita! ⭐ 
+  Obrigado pela visita! ⭐
 </div>
