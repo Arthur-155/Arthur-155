@@ -5,7 +5,7 @@
 ---
 
 ### Sobre mim
-Me chamo Arthur Vieira Bergamo, tenho 23 anos e sou natural de Santa Fé - PR. Concluí o ensino médio no Colégio Estadual Gastão Vidigal e atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar.
+Me chamo Arthur Vieira Bergamo, tenho 24 anos e sou natural de Santa Fé - PR. Concluí o ensino médio no Colégio Estadual Gastão Vidigal e atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar.
 
 ---
 
