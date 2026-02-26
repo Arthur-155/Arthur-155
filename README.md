@@ -48,5 +48,5 @@ Me chamo Arthur Vieira Bergamo, tenho 24 anos e sou natural de Santa Fé - PR. C
 ---
 
 <div align="center">
-  Obrigado pela visita! ⭐
+  Obrigado pela visita!! ⭐
 </div>
